@@ -31,3 +31,7 @@ https://salvadoradriang.github.io/personal-web/
 GitHub Repository
 
 https://github.com/salvadoradrianG/personal-web
+
+website screenshot
+
+![alt text](image-1.png)
