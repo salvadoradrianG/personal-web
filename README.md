@@ -1,22 +1,14 @@
-# Personal Portfolio Website
+Name:Adrian Salvador
 
-## Student Information
+Course:BSIT
 
-**Name:** Adrian Salvador
+Section:BSIT-2C
 
-**Course:** BSIT
-
-**Section:** BSIT-2C
-
----
-
-## Project Description
+Project Description
 
 This project is a simple personal website created using HTML and CSS. It introduces myself, my educational background, skills, hobbies, career goals, and contact information.
 
----
-
-## Features
+Features
 
 - Personal Profile
 - About Me
@@ -27,21 +19,15 @@ This project is a simple personal website created using HTML and CSS. It introdu
 - Contact Information
 - Responsive Design
 
----
+Technologies Used
 
-## Technologies Used
+- HTML5
+- CSS3
 
-- HTML
-- CSS
-
----
-
-## Live Website
+Live Website
 
 https://salvadoradriang.github.io/personal-web/
 
----
-
-## GitHub Repository
+GitHub Repository
 
 https://github.com/salvadoradrianG/personal-web
