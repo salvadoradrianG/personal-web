@@ -2,7 +2,7 @@ Name:Adrian Salvador
 
 Course:BSIT
 
-Section:BSIT-2C
+Section:BSIT-3C
 
 Project Description
 
